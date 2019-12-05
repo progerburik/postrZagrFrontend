@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:9999';
+const baseUrl = 'https://progerburik-postr-zagr-backend.herokuapp.com';
 
 let lastSeenId = 0;
 let firstSeenId = 0;
